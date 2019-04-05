@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="191.49219mm"
-   height="9.8288574mm"
-   viewBox="0 0 678.51562 34.82666"
+   width="392.90039mm"
+   height="199.40405mm"
+   viewBox="0 0 1392.1667 706.54979"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="LEDbank_location.svg">
+   sodipodi:docname="LED_bank_location.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.73577551"
-     inkscape:cx="-263.44681"
-     inkscape:cy="259.18383"
+     inkscape:cx="233.42623"
+     inkscape:cy="422.18383"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,8 +46,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       originx="-913.65112"
-       originy="-440.00001" />
+       originx="-200"
+       originy="-277" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -65,7 +65,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-913.65112,-577.53552)"
+     transform="translate(-200,-68.812378)"
      style="opacity:0.95999995">
     <circle
        style="opacity:1;fill:#d8a0ae;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
