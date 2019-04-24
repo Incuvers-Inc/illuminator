@@ -51,4 +51,4 @@ Since the LED's are powered from the main power source,
 it is important to limit the total current draw from activated sub-components.
 It is the software's responsibility to temporary disable components (heating/fans/valves) that could draw current for the duration of the illumination flash. Since this is rather short, it should cause any environmental noticeable disruptions.
 
-NOTE: the activate camera sensor (and post processing) will also cause a short-lived power demand, consider reactivating the environmental subcomponents only after the image is processed.
+NOTE: the activated camera sensor (and post processing) will also cause a short-lived increase in power demand, consider reactivating the environmental subcomponents only after the image is processed.
